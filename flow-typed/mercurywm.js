@@ -1,4 +1,5 @@
 // @flow
+// @flow
 // This contains type information for any global variables
 // added through webpack.
 
